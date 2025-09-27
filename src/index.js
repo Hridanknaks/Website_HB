@@ -4,7 +4,7 @@ export default {
     
     // Handle requests for /public/ assets from R2
     if (url.pathname.startsWith('/public/')) {
-      const key = url.pathname.slice(8); // Remove '/public/' prefix
+      const key = url.pathname.slice(1); // Remove only the leading '/', keep 'public/'
       const object = await env.ASSETS.get(key);
       
       if (object) {
