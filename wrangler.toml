@@ -1,0 +1,7 @@
+name = "portfolio-worker"
+compatibility_date = "2025-09-27"
+main = "src/index.js"
+
+[[r2_buckets]]
+binding = "ASSETS"
+bucket_name = "portfolio"
