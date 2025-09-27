@@ -6,7 +6,7 @@ export function LogoSection() {
   const organizations = [
     {
       name: "Siemens",
-      logo: "/siemens-logo.jpeg",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/siemens-logo.jpeg",
       role: "Engineering Intern",
       period: "June 2024 - June 2025",
       description: "Worked in the PAMC lab, setting up UART and SPI communications for AI-powered drone systems.",
@@ -15,7 +15,7 @@ export function LogoSection() {
     },
     {
       name: "Varchas Aerospace",
-      logo: "/Varchas-logo.webp",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/Varchas-logo.webp",
       role: "Engineering Intern",
       period: "September - October 2024",
       description: "Designed hovercraft prototype with integrated control systems",
@@ -24,7 +24,7 @@ export function LogoSection() {
     },
     {
       name: "The International School Bangalore",
-      logo: "/TISB.png",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/TISB.png",
       role: "Headboy",
       period: "April 2025 - Present",
       description: "Leading student body and representing school values",
@@ -33,7 +33,7 @@ export function LogoSection() {
     },
     {
       name: "Karnataka Wildlife Department",
-      logo: "/karnataka-wildlife-department.png",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/karnataka-wildlife-department.png",
       role: "Collaborator",
       period: "2024 - Present",
       description: "BirdRover project aiding bird population monitoring",
@@ -42,7 +42,7 @@ export function LogoSection() {
     },
     {
       name: "Trinity College London",
-      logo: "/trinity-logo.jpeg",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/trinity-logo.jpeg",
       role: "Certified Musician",
       period: "Since 2015",
       description: "Theory Grade 5, Guitar Practical Grade 3",

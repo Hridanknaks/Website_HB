@@ -114,12 +114,13 @@ export function BasketballPage() {
   }
 
   const gameTapeVideos = [
+    "https://portfolio-worker.hridank.workers.dev/public/bbp.jpg",
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BB2-tTjKlzVTBOeBey2teMogXe3i85As32.jpeg", // Team photo
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BB-HC8nqpfQpLB45oqbDHV5ze8urYFha2.jpeg", // Action shot
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/RPReplay_Final1724942177-NpIupJKcfSwqGpYbosmPBJiRGD10ox.mp4", // Basketball game video
-    "/placeholder.svg?height=400&width=600&text=Basketball+Game+Tape+4",
-    "/placeholder.svg?height=400&width=600&text=Basketball+Game+Tape+5",
-  ]
+    "https://portfolio-worker.hridank.workers.dev/public/bb2.PNG"
+    
+  ]git 
 
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8">

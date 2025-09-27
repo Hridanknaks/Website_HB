@@ -10,7 +10,7 @@ export function ExtracurricularsOverview() {
       title: "Music",
       description:
         "Lead guitarist for Highway 440, Trinity certified musician with performances at major events and fundraisers.",
-      image: "pfp.jpg?height=300&width=400&text=Music+Performance",
+      image: "https://portfolio-worker.hridank.workers.dev/public/pfp.jpg?height=300&width=400&text=Music+Performance",
       icon: Music,
       highlights: [
         "10+ Live Performances",

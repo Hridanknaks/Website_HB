@@ -38,14 +38,14 @@ export function MusicPage() {
         "Led the organization of the entire event",
       ],
       images: [
-        "/Guitar2.jpeg",
-        "/HOguitar3.png",
-        "/pfp.jpg",
-        "/HOguitarback.png",
-        "/IMG_2778.jpg",
-        "/IMG_2780.jpg",
-        "/from_stage.mp4",
-        "/HOguitar5.jpeg"
+        "https://portfolio-worker.hridank.workers.dev/public/Guitar2.jpeg",
+        "https://portfolio-worker.hridank.workers.dev/public/HOguitar3.PNG",
+        "https://portfolio-worker.hridank.workers.dev/public/pfp.jpg",
+        "https://portfolio-worker.hridank.workers.dev/public/HOguitarback.PNG",
+        "https://portfolio-worker.hridank.workers.dev/public/IMG_2778.jpg",
+        "https://portfolio-worker.hridank.workers.dev/public/IMG_2780.jpg",
+        "https://portfolio-worker.hridank.workers.dev/public/from_stage.mp4",
+        "https://portfolio-worker.hridank.workers.dev/public/HOguitar5.jpeg"
       ],
       instagramLinks: [
         {
@@ -80,8 +80,8 @@ export function MusicPage() {
         "Managed tech for 2022 event (PPTs, videos, LCD displays)",
       ],
       images: [
-        "/dma.png?",
-        "/dma2.jpeg?height=300&width=500&text=Dolce+Music+2",
+        "https://portfolio-worker.hridank.workers.dev/public/dma.PNG?",
+        "https://portfolio-worker.hridank.workers.dev/public/dma2.jpeg?height=300&width=500&text=Dolce+Music+2",
       ],
       color: "bg-gradient-to-r from-purple-500 to-indigo-500",
       borderColor: "border-purple-400",
@@ -99,11 +99,11 @@ export function MusicPage() {
         "Diverse musical experiences",
       ],
       images: [
-        "/Guitar.jpeg",
-        "/guitarother.png",
-        "/gother3.png",
-        "/gother4.png",
-        "/gother5.jpeg"
+        "https://portfolio-worker.hridank.workers.dev/public/Guitar.jpeg",
+        "https://portfolio-worker.hridank.workers.dev/public/guitarother.PNG",
+        "https://portfolio-worker.hridank.workers.dev/public/gother3.PNG",
+        "https://portfolio-worker.hridank.workers.dev/public/Gother4.PNG",
+        "https://portfolio-worker.hridank.workers.dev/public/gother5.jpeg"
       ],
       color: "bg-gradient-to-r from-blue-500 to-cyan-500",
       borderColor: "border-blue-400",

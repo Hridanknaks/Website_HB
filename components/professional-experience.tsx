@@ -13,7 +13,7 @@ export function ProfessionalExperience() {
       duration: "April 2025 - Present",
       location: "Bangalore, India",
       type: "Leadership",
-      logo: "/TISB.png",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/TISB.png",
       description:
         "Elected to represent the student body and lead various school initiatives, I serve as the primary liaison between students and administration while managing comprehensive student affairs. My role extends far beyond traditional head boy responsibilities to include founding and leading key student organizations, spearheading major revenue-generating events, and implementing transformative initiatives that foster a more inclusive and appreciative school environment. I lead a diverse team of 15 student council members across various committees, coordinating complex multi-stakeholder projects that impact the entire school community of over 800 students. My leadership philosophy centers on creating meaningful engagement opportunities while driving tangible improvements to student life and school culture.",
       keyEvents: [
@@ -54,7 +54,7 @@ export function ProfessionalExperience() {
         "Strategic Planning",
         "Community Engagement",
       ],
-      images: ["/HB2.png", "/HB3.png", "/HB.jpg", "/vv1.jpg"],
+      images: ["https://portfolio-worker.hridank.workers.dev/public/HB2.PNG", "https://portfolio-worker.hridank.workers.dev/public/HB3.PNG", "https://portfolio-worker.hridank.workers.dev/public/vv1.jpg"],
       color: "bg-gradient-to-r from-blue-500 to-indigo-500",
       borderColor: "border-blue-400",
     },
@@ -64,7 +64,7 @@ export function ProfessionalExperience() {
       duration: "June 2024 - June 2025",
       location: "Bangalore, India",
       type: "Technology",
-      logo: "/siemens-logo.jpeg",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/siemens-logo.jpeg",
       description:
         "Working in Siemens' prestigious PAMC (Platform and Module Competency) lab, I contributed to cutting-edge AI-powered drone technology for environmental monitoring applications. This comprehensive internship provided me with invaluable hands-on experience in professional-grade embedded systems, PCB design, and advanced communication protocols. As the embedded lab ventured into new AI-integrated projects, I served as a crucial bridge between traditional embedded systems engineering and modern artificial intelligence applications. My role involved not only technical development but also knowledge transfer, as I actively assisted senior Siemens engineers with AI algorithm integration and practical applications. The internship culminated in developing a drone platform that became the foundation for my IRIS Grand Award-winning project, demonstrating the real-world impact of the skills and knowledge gained during this experience.",
       achievements: [
@@ -93,7 +93,7 @@ export function ProfessionalExperience() {
         "I2C",
         "SD Card Communications",
       ],
-      images: ["/Siemens.jpg"],
+      images: ["https://portfolio-worker.hridank.workers.dev/public/Siemens.jpg"],
       color: "bg-gradient-to-r from-teal-500 to-cyan-500",
       borderColor: "border-teal-400",
     },
@@ -103,7 +103,7 @@ export function ProfessionalExperience() {
       duration: "September - October 2024",
       location: "Bangalore, India",
       type: "Engineering",
-      logo: "/Varchas-logo.webp",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/Varchas-logo.webp",
       description:
         "During this intensive engineering internship at Varchas Aerospace, I designed and developed the first prototype of an autonomous hovercraft, working in close collaboration with experienced engineering teams on mechanical design, advanced control systems, and seamless system integration. This hands-on experience provided me with comprehensive exposure to the complete product development lifecycle, from initial concept and design through prototyping, testing, and iteration. The project required innovative problem-solving as I worked with PVC and acrylic materials to optimize performance while maintaining cost-effectiveness. I gained practical experience in 3D printing custom components, configuring sophisticated motor ESC systems, and integrating radio control systems for precise remote operation and navigation. The successful completion of a functional prototype within the 3-month timeline demonstrated both technical competency and project management skills.",
       achievements: [
@@ -128,7 +128,7 @@ export function ProfessionalExperience() {
         "ESC Configuration",
         "Radio Control Systems",
       ],
-      images: ["/Varchas.jpg"],
+      images: ["https://portfolio-worker.hridank.workers.dev/public/Varchas.jpg"],
       color: "bg-gradient-to-r from-green-500 to-emerald-500",
       borderColor: "border-green-400",
     },

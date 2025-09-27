@@ -4,14 +4,14 @@ import Image from "next/image"
 import { Marquee } from "./marquee"
 
 const logos = [
-  { src: "/siemens-logo.jpeg", alt: "Siemens", width: 180, height: 75 },
-  { src: "/MateROV.png", alt: "MateROV Competition", width: 180, height: 75 },
-  { src: "/TISB.png", alt: "The International School Bangalore", width: 150, height: 75 },
-  { src: "/IRIS.png", alt: "IRIS National Fair", width: 150, height: 75 },
-  { src: "/trinity-logo.jpeg", alt: "Trinity College London", width: 180, height: 75 },
-  { src: "/university-of-waterloo.png", alt: "University of Waterloo", width: 240, height: 75 },
-  { src: "/images/isef-logo.png", alt: "Regeneron ISEF", width: 210, height: 75 },
-  { src: "/Varchas-logo.webp", alt: "Varchas Aerospace", width: 210, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/siemens-logo.jpeg", alt: "Siemens", width: 180, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/MateROV.png", alt: "MateROV Competition", width: 180, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/TISB.png", alt: "The International School Bangalore", width: 150, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/IRIS.png", alt: "IRIS National Fair", width: 150, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/trinity-logo.jpeg", alt: "Trinity College London", width: 180, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/university-of-waterloo.png", alt: "University of Waterloo", width: 240, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/images/isef-logo.png", alt: "Regeneron ISEF", width: 210, height: 75 },
+  { src: "https://portfolio-worker.hridank.workers.dev/public/Varchas-logo.webp", alt: "Varchas Aerospace", width: 210, height: 75 },
 ]
 
 export function MarqueeBanner() {

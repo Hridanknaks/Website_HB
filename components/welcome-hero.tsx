@@ -21,7 +21,7 @@ export function WelcomeHero() {
           transition={{ duration: 0.8 }}
         >
           <Image
-            src="/profile-picture.jpeg"
+            src="/https://portfolio-worker.hridank.workers.dev/public/profile-picture.jpeg"
             alt="Hridank Bhagath"
             width={250}
             height={250}

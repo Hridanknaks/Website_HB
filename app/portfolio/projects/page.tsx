@@ -64,7 +64,7 @@ const projects = [
     title: "Leviathan Mark II - Materov Competition ROV",
     description:
       "A cost-efficient ROV for the MATE competition, awarded a US Navy Challenge Coin. An innovative low-cost engineering solution.",
-    image: "https://portfolio-worker.hridank.workers.dev/public/MR7.png",
+    image: "https://portfolio-worker.hridank.workers.dev/public/MR7.PNG",
     technologies: ["Robotics", "Underwater Systems", "Cost Optimization", "Mechanical Engineering"],
     award: "US Navy Challenge Coin",
     status: "Completed (Awarded)",
@@ -77,7 +77,7 @@ const projects = [
     title: "Aquascan - Novel Underwater ROV for Environmental Sensing",
     description:
       "A novel underwater ROV for environmental sensing in India, using AI to detect metals, rust, and microplastics. Pioneering subaquatic exploration technology.",
-    image: "https://portfolio-worker.hridank.workers.dev/public/MR3.jpg",
+    image: "https://portfolio-worker.hridank.workers.dev/public/MR3.JPG",
     technologies: ["Robotics", "Underwater Systems", "AI/ML", "Environmental Tech", "Novel Design"],
     status: "Advanced Progress (Autonomous Dev)",
     color: "bg-gradient-to-r from-violet-400 to-indigo-500",
@@ -89,7 +89,7 @@ const projects = [
     title: "Hydrotherapy Rehabilitation Project",
     description:
       "A smart, sustainable water treadmill for physiotherapy, integrating AI gait analysis and eco-friendly design to make aquatic therapy more accessible.",
-    image: "https://portfolio-worker.hridank.workers.dev/public/Hydro.png",
+    image: "https://portfolio-worker.hridank.workers.dev/public/Hydro.PNG",
     technologies: ["Medical Devices", "Rehabilitation", "Mechanical Engineering", "Therapy", "IoT"],
     status: "In Development",
     color: "bg-gradient-to-r from-cyan-300 to-sky-400",
@@ -101,7 +101,7 @@ const projects = [
     title: "Potentia - AI-Powered Athlete Performance Platform",
     description:
       "An AI coaching platform for athletes that provides form analysis, injury prevention, and personalized training schedules. Leading a 20-student team.",
-    image: "https://portfolio-worker.hridank.workers.dev/public/potentia.png",
+    image: "https://portfolio-worker.hridank.workers.dev/public/Potentia.png",
     technologies: ["AI/ML", "Mobile Development", "Sports Science", "Computer Vision", "Team Leadership"],
     status: "Advanced Progress (Team Lead)",
     color: "bg-gradient-to-r from-blue-500 to-indigo-600",
@@ -113,7 +113,7 @@ const projects = [
     title: "Vemana Hospital Digital Transformation & Revival",
     description:
       "Leading the digital transformation of a government hospital by implementing an EMRS, securing CSR funding, and optimizing operations.",
-    image: "https://portfolio-worker.hridank.workers.dev/public/Vemana.png",
+    image: "https://portfolio-worker.hridank.workers.dev/public/Vemana.PNG",
     technologies: ["Healthcare Tech", "EMRS", "Process Automation", "CSR Funding", "Random Forest Regressors"],
     status: "In Progress",
     color: "bg-gradient-to-r from-rose-400 to-red-500",

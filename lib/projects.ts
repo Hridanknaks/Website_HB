@@ -32,14 +32,14 @@ export const projects: Project[] = [
     description:
       "An award-winning AI hovercraft for non-invasive bird monitoring, providing scalable data for conservation. IRIS Grand Award winner and Regeneron ISEF 2025 Finalist.",
     images: [
-      "/Birdrov1.jpg",
-      "/BirdROV3.jpg", 
-      "/Classify.jpg",
-      "/BirdRov4.jpg",
-      "/IMG_1778.mov",
-      "/Birdrov6.mp4",
-      "/Bir1.mp4",
-      "/bir2.mp4"
+      "https://portfolio-worker.hridank.workers.dev/public/Birdrov1.jpg",
+      "https://portfolio-worker.hridank.workers.dev/public/BirdROV3.JPG", 
+      "https://portfolio-worker.hridank.workers.dev/public/Classify.JPG",
+      "https://portfolio-worker.hridank.workers.dev/public/BirdRov4.JPG",
+      "https://portfolio-worker.hridank.workers.dev/public/Untitled video (7).mpv",
+      "https://portfolio-worker.hridank.workers.dev/public/Birdrov6.mp4",
+      "https://portfolio-worker.hridank.workers.dev/public/Bir1.mp4",
+      "https://portfolio-worker.hridank.workers.dev/public/bir2.mp4"
 
 
       
@@ -89,7 +89,7 @@ export const projects: Project[] = [
   description:
     "A research paper analyzing the constraints of Boid algorithms in UAV swarm control through simulation-based methods, highlighting scalability and coordination challenges.",
   images: [
-    "/Boids.png"
+    "https://portfolio-worker.hridank.workers.dev/public/Boids.png"
     
   ],
   technologies: ["UAV Swarms", "Simulation", "Multi-Agent Systems", "Boid Algorithms", "AI/ML"],
@@ -131,7 +131,7 @@ export const projects: Project[] = [
     title: "NavAid - AI-Driven Indoor Navigation for Wheelchairs",
     description:
       "A novel AI-powered Indoor Positioning System (IPS) for wheelchairs, enabling autonomous mobility in hospitals using an innovative sensor fusion approach never implemented before in this context.",
-    images: ["/navaid1.jpg", "/Navaid.jpg", "/IMG_3573.jpg"],
+    images: ["https://portfolio-worker.hridank.workers.dev/public/navaid1.jpg", "https://portfolio-worker.hridank.workers.dev/public/Navaid.JPG", "/IMG_3573.jpg"],
     technologies: ["AI/ML", "Robotics", "Node.js", "Indoor Navigation", "Accessibility Tech"],
     status: "Advanced Progress (Team Lead)",
     icon: "Compass",
@@ -169,7 +169,7 @@ export const projects: Project[] = [
    id: "leviathan-mark-ii",
 title: "Leviathan Mark II - Materov Competition ROV",
 description: "A cost-efficient ROV for the MATE competition, awarded a US Navy Challenge Coin.",
-images: ["/MR7.png", "/MR4.jpg", "/MR5.jpg", "/MR6.jpg", "/MR1.jpg","/MR7.jpg", "/Materov8.jpg"],
+images: ["https://portfolio-worker.hridank.workers.dev/public/MR7.PNG", "https://portfolio-worker.hridank.workers.dev/public/MR4.jpg", "https://portfolio-worker.hridank.workers.dev/public/MR5.jpg", "https://portfolio-worker.hridank.workers.dev/public/MR6.jpg", "https://portfolio-worker.hridank.workers.dev/public/MR1.JPG","https://portfolio-worker.hridank.workers.dev/public/MR7.jpg", "https://portfolio-worker.hridank.workers.dev/public/Materov8.jpg"],
 technologies: ["Robotics", "Underwater Systems", "Cost Optimization", "Mechanical Engineering"],
 award: "US Navy Challenge Coin",
 status: "Completed (Awarded)",
@@ -216,7 +216,7 @@ impact: [
   id: "aquascan",
   title: "AquaScan - Novel Underwater ROV for Environmental Sensing",
   description: "A next-gen autonomous ROV for India, integrating AI, spectroscopy, and filtration to detect microplastics, corrosion, and heavy metal ions in aquatic environments.",
-  images: ["/MR3.jpg", "/Aquascan.mp4" ],
+  images: ["https://portfolio-worker.hridank.workers.dev/public/MR3.JPG", "https://portfolio-worker.hridank.workers.dev/public/AquaScan.mp4" ],
   technologies: ["Robotics", "Underwater Systems", "AI/ML", "Environmental Tech", "Spectroscopy", "Novel Design"],
   status: "Advanced Progress (Autonomous Dev)",
   icon: "FlaskConical",
@@ -262,7 +262,7 @@ impact: [
   title: "Hydrotherapy Rehabilitation Project",
   description:
     "A waterproof underwater treadmill for physiotherapy, designed to support rehabilitation with AI gait analysis and adjustable water levels.",
-  images: ["/Hydro.png"],
+  images: ["https://portfolio-worker.hridank.workers.dev/public/Hydro.PNG"],
   technologies: ["Medical Devices", "Rehabilitation", "Mechanical Engineering", "Hydrotherapy", "AI/ML"],
   status: "In Development",
   icon: "Droplet",
@@ -300,7 +300,7 @@ impact: [
   id: "potentia",
   title: "Potentia - AI-Powered Athlete Performance Platform",
   description: "A comprehensive mobile platform that leverages AI-driven coaching for injury prevention, form correction, strength training, and customized athlete schedules. Led by a 20-student development team.",
-  images: ["/Potentia.png"],
+  images: ["https://portfolio-worker.hridank.workers.dev/public/Potentia.png"],
   technologies: ["AI/ML", "Computer Vision", "Mobile Development", "Sports Science", "Team Leadership"],
   status: "Advanced Progress (Team Lead)",
   icon: "Users",
@@ -346,7 +346,7 @@ impact: [
   title: "Vemana Hospital Digital Transformation & Revival",
   description:
     "Leading the revival of a government hospital in collaboration with healthcare experts and NGOs by implementing affordable EMR systems, securing CSR funding, and building a self-reliant healthcare model to serve marginalized communities.",
-  images: ["/Vemana.png"],
+  images: ["https://portfolio-worker.hridank.workers.dev/public/Vemana.PNG"],
   technologies: ["Hospital Management Systems", "EMR", "Process Automation", "CSR Funding", "Community Health Camps"],
   status: "In Progress (Project Lead)",
   icon: "Heart",
@@ -392,7 +392,7 @@ impact: [
   title: "AI-Powered Diet Analysis & Nutrient Predictor",
   description:
     "An AI tool that leverages Random Forest regression to predict personalized nutritional needs based on health parameters. Developed under the mentorship of Mr. Aman Kesarwani, with a self-built dataset from extensive web scraping. Led a 3-member development team.",
-  images: ["/Diet1.jpg", "/Diet2.jpg", "/Diet3.jpg"],
+  images: ["https://portfolio-worker.hridank.workers.dev/public/Diet1.jpg", "https://portfolio-worker.hridank.workers.dev/public/Diet2.jpg", "https://portfolio-worker.hridank.workers.dev/public/Diet3.jpg"],
   technologies: ["AI/ML", "Data Science", "Nutrition", "Random Forest Regression", "Python", "Web Scraping"],
   status: "Completed",
   icon: "BarChart3",
@@ -436,7 +436,7 @@ impact: [
   description:
     "An advanced drone platform developed during my Siemens PAMC internship, combining embedded systems and AI for real-time bird detection and environmental monitoring. This project laid the foundation for my IRIS Grand Award-winning BirdRover.",
   images: [
-    "/Siemens.jpg"
+    "/https://portfolio-worker.hridank.workers.dev/public/Siemens.jpg"
   ],
   technologies: [
     "AI/ML",

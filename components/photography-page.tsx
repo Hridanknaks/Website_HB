@@ -5,7 +5,7 @@ import { ImageGallery } from "./image-gallery"
 
 export function PhotographyPage() {
   const exhibitionImages = [
-    "/Photo banner.jpg",
+    "https://portfolio-worker.hridank.workers.dev/public/Photo banner.jpg",
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC_1069.JPG-Axgqnf4N8jZKFPSKm27BxAQ0Or0Gmg.jpeg", // Sunbird with purple flowers
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC_0718.JPG-SXP3K9rmcpiWSrPEKAeyVik2vQP4Oc.jpeg", // Green bee-eater
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC_1107.JPG-Qws8jMalACasEV7KZQqg6ZS48bAUcG.jpeg", // Grey heron by water

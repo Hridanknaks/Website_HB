@@ -10,7 +10,7 @@ export default function PortfolioPage() {
         className="flex-1 group relative flex items-center justify-center text-center text-white overflow-hidden p-8"
       >
         <Image
-          src="/projects-background.avif"
+          src="https://portfolio-worker.hridank.workers.dev/public/projects-background.avif"
           alt="Projects background showing modern robotics and industrial technology"
           fill
           className="object-cover transition-transform duration-500 group-hover:scale-110"
@@ -37,7 +37,7 @@ export default function PortfolioPage() {
         className="flex-1 group relative flex items-center justify-center text-center text-white overflow-hidden p-8"
       >
         <Image
-          src="/research-background.jpeg"
+          src="https://portfolio-worker.hridank.workers.dev/public/research-background.jpeg"
           alt="Research background showing electronic circuits and technology"
           fill
           className="object-cover transition-transform duration-500 group-hover:scale-110"

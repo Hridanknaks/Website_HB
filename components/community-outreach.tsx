@@ -14,17 +14,17 @@ export function CommunityOutreach() {
       role: "Co-Founder",
       period: "April 2022 - Present",
       location: "Bangalore, India",
-      logo: "/Socialabs.png?height=80&width=80&text=Socialabs+Logo",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/Socialabs.png?height=80&width=80&text=Socialabs+Logo",
       impact: {
         schools: "5+ Government Schools",
         students: "200+ Students Impacted",
         kits: "10+ Science Kits Designed",
       },
       images: [
-        "/Socialabs.jpeg",
-        "/Socialabs1.jpeg",
-        "/IMG_7744.mp4",
-        "/IMG_7851.mp4"
+        "https://portfolio-worker.hridank.workers.dev/public/Socialabs.jpeg",
+        "https://portfolio-worker.hridank.workers.dev/public/Socialabs1.jpeg",
+        "https://portfolio-worker.hridank.workers.dev/public/IMG_7744.mp4",
+        "https://portfolio-worker.hridank.workers.dev/public/IMG_7851.mp4"
       ],
       highlights: [
         "Developed 10+ different science experiment kits explaining concepts from the science syllabus",
@@ -43,15 +43,15 @@ export function CommunityOutreach() {
       role: "Clubs Vice-Chair (2022-2023), Organisation Lead (2024-2025)",
       period: "2021 - Present",
       location: "Bangalore, India",
-      logo: "/sc.JPEG?height=80&width=80&text=SocialCreds+Logo",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/sc.JPEG?height=80&width=80&text=SocialCreds+Logo",
       impact: {
         volunteers: "200+ Active Volunteers",
         projects: "50+ Community Projects (assisted)",
         funding: "₹45L+ CSR Secured",
       },
       images: [
-        "/SC1.png?height=300&width=500&text=SocialCreds+Image+1",
-        "/SC2.png?height=300&width=500&text=SocialCreds+Image+2",
+        "https://portfolio-worker.hridank.workers.dev/public/SC1.PNG?height=300&width=500&text=SocialCreds+Image+1",
+        "https://portfolio-worker.hridank.workers.dev/public/Sc2.PNG?height=300&width=500&text=SocialCreds+Image+2",
       ],
       highlights: [
         "Secured ₹45 lakhs in CSR funding for Snehagram Centre supporting HIV-positive youth",
@@ -72,13 +72,13 @@ export function CommunityOutreach() {
       role: "Project Leader",
       period: "November 2024 - Present",
       location: "Bangalore, India",
-      logo: "/Redcross.png?height=80&width=80&text=Vemana+Hospital+Logo",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/Redcross.png?height=80&width=80&text=Vemana+Hospital+Logo",
       impact: {
         funding: "₹81.5 Lakhs Projected Funding",
         timeline: "Mid-2025 Target",
         systems: "Full Digital Integration",
       },
-      images: ["/Vemana.png?height=300&width=500&text=Vemana+Hospital+Image+1"],
+      images: ["https://portfolio-worker.hridank.workers.dev/public/Vemana.PNG?height=300&width=500&text=Vemana+Hospital+Image+1"],
       highlights: [
         "Conducting comprehensive assessment of hospital's current challenges",
         "Implementing Electronic Medical Records System (EMRS) for better patient care",

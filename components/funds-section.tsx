@@ -38,7 +38,7 @@ export function FundsSection() {
     },
   ]
 
-  const totalFundsManagedDisplay = "₹55.0 Lakh / $64,000"
+  const totalFundsManagedDisplay = "₹1.25 Crore / $140,000"
   const totalFundsManagedProjectedDisplay = "₹2 Crore / $230,000"
 
   const formatAmount = (amount: number, includeUsd = true) => {
