@@ -8,7 +8,7 @@ const featuredProjects = [
   {
     title: "BirdRover",
     description: "AI-powered drone system for bird detection and monitoring using advanced computer vision algorithms.",
-    image: "https://portfolio-worker.hridank.workers.dev/images/BirdRover.jpeg",
+    image: "https://portfolio-worker.hridank.workers.dev/public/images/BirdRover.jpeg",
     tech: ["Python", "TensorFlow", "OpenCV", "Drone Tech"],
     status: "Active",
     link: "/projects/birdrover",
@@ -18,7 +18,7 @@ const featuredProjects = [
     title: "Potentia",
     description:
       "Mobile platform connecting aspiring athletes with professional coaches and personalized training programs.",
-    image: "https://portfolio-worker.hridank.workers.dev/images/Potentia.png",
+    image: "https://portfolio-worker.hridank.workers.dev/public/images/Potentia.png",
     tech: ["React Native", "Node.js", "MongoDB", "Firebase"],
     status: "In Development",
     link: "/projects/potentia",

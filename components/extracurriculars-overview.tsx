@@ -26,7 +26,7 @@ export function ExtracurricularsOverview() {
       title: "Basketball",
       description:
         "School team guard with tournament victories and competitive experience across multiple championships.",
-      image: "https://portfolio-worker.hridank.workers.dev/bbp.jpg?height=300&width=400&text=Basketball+Action",
+      image: "https://portfolio-worker.hridank.workers.dev/public/bbp.jpg?height=300&width=400&text=Basketball+Action",
       icon: Dumbbell,
       highlights: ["U18 Tournament Winners", "2 Silver, 1 Bronze medals", "School Team Guard", "6 Major Tournaments"],
       link: "/extracurriculars/basketball",
@@ -37,7 +37,7 @@ export function ExtracurricularsOverview() {
       title: "Photography",
       description:
         "A lifelong passion for capturing moments, from mastering camera techniques at a young age to focusing on wildlife and setting-based photography, which inspired my BirdRover project.",
-      image: "https://portfolio-worker.hridank.workers.dev/Photo banner.jpg?height=300&width=400&text=Photography+Gear",
+      image: "https://portfolio-worker.hridank.workers.dev/public/Photo banner.jpg?height=300&width=400&text=Photography+Gear",
       icon: Camera,
       highlights: [
         "Lifelong Passion",

@@ -16,7 +16,7 @@ const projects = [
     recognition: "IRIS Grand Award Winner",
     link: "/projects/birdrover",
     github: "#",
-    image: "https://portfolio-worker.hridank.workers.dev/images/BirdRover.jpeg",
+    image: "https://portfolio-worker.hridank.workers.dev/public/images/BirdRover.jpeg",
   },
   {
     title: "Potentia",
@@ -28,7 +28,7 @@ const projects = [
     recognition: "Startup Incubator Selected",
     link: "/projects/potentia",
     github: "#",
-    image: "https://portfolio-worker.hridank.workers.dev/images/Potentia.png",
+    image: "https://portfolio-worker.hridank.workers.dev/public/images/Potentia.png",
   },
   {
     title: "SocialCred$",
@@ -40,7 +40,7 @@ const projects = [
     recognition: "Hackathon Winner",
     link: "/projects/socialcreds",
     github: "#",
-    image: "https://portfolio-worker.hridank.workers.dev/placeholder.svg?height=200&width=400",
+    image: "https://portfolio-worker.hridank.workers.dev/public/placeholder.svg?height=200&width=400",
   },
 ]
 
