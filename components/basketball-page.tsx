@@ -120,7 +120,7 @@ export function BasketballPage() {
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/RPReplay_Final1724942177-NpIupJKcfSwqGpYbosmPBJiRGD10ox.mp4", // Basketball game video
     "https://portfolio-worker.hridank.workers.dev/public/bb2.PNG"
     
-  ]git 
+  ]
 
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8">
