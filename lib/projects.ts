@@ -34,9 +34,9 @@ export const projects: Project[] = [
     images: [
       "https://portfolio-worker.hridank.workers.dev/public/Birdrov1.jpg",
       "https://portfolio-worker.hridank.workers.dev/public/BirdROV3.JPG", 
-      "https://portfolio-worker.hridank.workers.dev/public/Classify.JPG",
+      "https://portfolio-worker.hridank.workers.dev/public/Classify.jpg",
       "https://portfolio-worker.hridank.workers.dev/public/BirdRov4.JPG",
-      "https://portfolio-worker.hridank.workers.dev/public/Untitled video (7).mpv",
+      "https://portfolio-worker.hridank.workers.dev/public/Bir9.mpv",
       "https://portfolio-worker.hridank.workers.dev/public/Birdrov6.mp4",
       "https://portfolio-worker.hridank.workers.dev/public/Bir1.mp4",
       "https://portfolio-worker.hridank.workers.dev/public/bir2.mp4"
@@ -131,7 +131,7 @@ export const projects: Project[] = [
     title: "NavAid - AI-Driven Indoor Navigation for Wheelchairs",
     description:
       "A novel AI-powered Indoor Positioning System (IPS) for wheelchairs, enabling autonomous mobility in hospitals using an innovative sensor fusion approach never implemented before in this context.",
-    images: ["https://portfolio-worker.hridank.workers.dev/public/navaid1.jpg", "https://portfolio-worker.hridank.workers.dev/public/Navaid.JPG", "/IMG_3573.jpg"],
+    images: ["https://portfolio-worker.hridank.workers.dev/public/navaid1.jpg", "https://portfolio-worker.hridank.workers.dev/public/Navaid.JPG", "https://portfolio-worker.hridank.workers.dev/public/IMG_3573.jpg"],
     technologies: ["AI/ML", "Robotics", "Node.js", "Indoor Navigation", "Accessibility Tech"],
     status: "Advanced Progress (Team Lead)",
     icon: "Compass",

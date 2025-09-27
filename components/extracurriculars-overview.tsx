@@ -37,7 +37,7 @@ export function ExtracurricularsOverview() {
       title: "Photography",
       description:
         "A lifelong passion for capturing moments, from mastering camera techniques at a young age to focusing on wildlife and setting-based photography, which inspired my BirdRover project.",
-      image: "https://portfolio-worker.hridank.workers.dev/public/Photo banner.jpg?height=300&width=400&text=Photography+Gear",
+      image: "https://portfolio-worker.hridank.workers.dev/public/Pic.jpg?height=300&width=400&text=Photography+Gear",
       icon: Camera,
       highlights: [
         "Lifelong Passion",
