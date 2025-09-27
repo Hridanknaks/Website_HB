@@ -27,7 +27,7 @@ const projects = [
     title: "BirdRover - AI-Powered Avian Monitoring Hovercraft",
     description:
       "An award-winning AI hovercraft for non-invasive bird monitoring, providing scalable data for conservation. IRIS Grand Award winner and Regeneron ISEF 2025 Finalist.",
-    image: "/Birdrov1.jpg",
+    image: "https://portfolio-worker.hridank.workers.dev/Birdrov1.jpg",
     technologies: ["AI/ML", "Computer Vision", "Hovercraft Technology", "Environmental Monitoring", "Python"],
     award: "IRIS Grand Award 2024, Regeneron ISEF 2025 Finalist",
     status: "Implementation Phase",
@@ -40,7 +40,7 @@ const projects = [
     title: "AvianEye - AI-Powered Drone for Environmental Monitoring",
     description:
       "A Siemens PAMC Lab internship project combining embedded systems and AI to develop a professional-grade drone for real-time bird detection and environmental monitoring.",
-    image: "/Siemens.jpg", // ✅ Replace with actual image path
+    image: "https://portfolio-worker.hridank.workers.dev/Siemens.jpg", // ✅ Replace with actual image path
     technologies: ["AI/ML", "Computer Vision", "Embedded Systems", "PCB Design", "UAV Technology", "UART/SPI/I2C"],
     status: "Completed (Internship Project)",
     color: "bg-gradient-to-r from-teal-500 to-cyan-600",
@@ -52,7 +52,7 @@ const projects = [
     title: "NavAid - AI-Driven Indoor Navigation for Wheelchairs",
     description:
       "A novel AI-powered Indoor Positioning System (IPS) for wheelchairs, enabling autonomous mobility in hospitals using an innovative sensor fusion approach.",
-    image: "/navaid1.jpg",
+    image: "https://portfolio-worker.hridank.workers.dev/navaid1.jpg",
     technologies: ["AI/ML", "Robotics", "Node.js", "Indoor Navigation", "Accessibility Tech"],
     status: "Advanced Progress (Team Lead)",
     color: "bg-gradient-to-r from-teal-400 to-cyan-500",
@@ -64,7 +64,7 @@ const projects = [
     title: "Leviathan Mark II - Materov Competition ROV",
     description:
       "A cost-efficient ROV for the MATE competition, awarded a US Navy Challenge Coin. An innovative low-cost engineering solution.",
-    image: "/MR7.png",
+    image: "https://portfolio-worker.hridank.workers.dev/MR7.png",
     technologies: ["Robotics", "Underwater Systems", "Cost Optimization", "Mechanical Engineering"],
     award: "US Navy Challenge Coin",
     status: "Completed (Awarded)",
@@ -77,7 +77,7 @@ const projects = [
     title: "Aquascan - Novel Underwater ROV for Environmental Sensing",
     description:
       "A novel underwater ROV for environmental sensing in India, using AI to detect metals, rust, and microplastics. Pioneering subaquatic exploration technology.",
-    image: "/MR3.jpg",
+    image: "https://portfolio-worker.hridank.workers.dev/MR3.jpg",
     technologies: ["Robotics", "Underwater Systems", "AI/ML", "Environmental Tech", "Novel Design"],
     status: "Advanced Progress (Autonomous Dev)",
     color: "bg-gradient-to-r from-violet-400 to-indigo-500",
@@ -89,7 +89,7 @@ const projects = [
     title: "Hydrotherapy Rehabilitation Project",
     description:
       "A smart, sustainable water treadmill for physiotherapy, integrating AI gait analysis and eco-friendly design to make aquatic therapy more accessible.",
-    image: "/Hydro.png",
+    image: "https://portfolio-worker.hridank.workers.dev/Hydro.png",
     technologies: ["Medical Devices", "Rehabilitation", "Mechanical Engineering", "Therapy", "IoT"],
     status: "In Development",
     color: "bg-gradient-to-r from-cyan-300 to-sky-400",
@@ -101,7 +101,7 @@ const projects = [
     title: "Potentia - AI-Powered Athlete Performance Platform",
     description:
       "An AI coaching platform for athletes that provides form analysis, injury prevention, and personalized training schedules. Leading a 20-student team.",
-    image: "/potentia.png",
+    image: "https://portfolio-worker.hridank.workers.dev/potentia.png",
     technologies: ["AI/ML", "Mobile Development", "Sports Science", "Computer Vision", "Team Leadership"],
     status: "Advanced Progress (Team Lead)",
     color: "bg-gradient-to-r from-blue-500 to-indigo-600",
@@ -113,7 +113,7 @@ const projects = [
     title: "Vemana Hospital Digital Transformation & Revival",
     description:
       "Leading the digital transformation of a government hospital by implementing an EMRS, securing CSR funding, and optimizing operations.",
-    image: "/Vemana.png",
+    image: "https://portfolio-worker.hridank.workers.dev/Vemana.png",
     technologies: ["Healthcare Tech", "EMRS", "Process Automation", "CSR Funding", "Random Forest Regressors"],
     status: "In Progress",
     color: "bg-gradient-to-r from-rose-400 to-red-500",
@@ -125,7 +125,7 @@ const projects = [
     title: "AI-Powered Diet Analysis & Nutrient Predictor",
     description:
       "An AI tool that predicts personalized nutritional needs using a random forest model trained on a multi-variable health dataset. Team lead for a 3-member team.",
-    image: "/Diet1.jpg",
+    image: "https://portfolio-worker.hridank.workers.dev/Diet1.jpg",
     technologies: ["AI/ML", "Data Science", "Nutrition", "Predictive Modeling", "Python"],
     status: "Completed",
     color: "bg-gradient-to-r from-amber-400 to-orange-500",
