@@ -28,7 +28,7 @@ export function HonoursSection() {
       gradient: "from-yellow-500 to-orange-500",
     },
     {
-      title: "Regeneron ISEF 2025 Representative",
+      title: "Regeneron ISEF 2025 Finalist- Team India",
       year: "2025",
       description: "Representing Team India at the world's largest pre-college science competition",
       category: "International Recognition",
@@ -83,6 +83,24 @@ export function HonoursSection() {
       image: "https://portfolio-worker.hridank.workers.dev/public/trinity-logo.jpeg",
       gradient: "from-rose-500 to-pink-500",
     },
+   {
+      title: "Sigma Xi iFORE - Top 300",
+      year: "2025",
+      description: "Project AquaScan accepted among top 300 innovations in Sigma Xi's International Forum for Research Excellence",
+      category: "Research & Innovation",
+      icon: Star,
+      image: "https://portfolio-worker.hridank.workers.dev/public/SigmaXI.jpeg",
+      gradient: "from-blue-500 to-indigo-500",
+    },
+    {
+      title: "Sigma Xi iFORE - Top 300",
+      year: "2025",
+      description: "Project NavAid accepted among top 300 innovations in Sigma Xi's International Forum for Research Excellence",
+      category: "Research & Innovation",
+      icon: Star,
+      image: "https://portfolio-worker.hridank.workers.dev/public/SigmaXI.jpeg",
+      gradient: "from-indigo-500 to-violet-500",
+    },   
     {
       title: "University of Waterloo CSIMC 2023",
       year: "2023",

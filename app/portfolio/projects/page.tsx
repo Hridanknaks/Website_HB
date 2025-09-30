@@ -37,7 +37,7 @@ const projects = [
   },
   {
     id: "avianeye",
-    title: "AvianEye - AI-Powered Drone for Environmental Monitoring",
+    title: "AvianEye - AI-Powered Autonomous Drone for Environmental Monitoring",
     description:
       "A Siemens PAMC Lab internship project combining embedded systems and AI to develop a professional-grade drone for real-time bird detection and environmental monitoring.",
     image: "https://portfolio-worker.hridank.workers.dev/public/Siemens.jpg", // ✅ Replace with actual image path
@@ -54,7 +54,7 @@ const projects = [
       "A novel AI-powered Indoor Positioning System (IPS) for wheelchairs, enabling autonomous mobility in hospitals using an innovative sensor fusion approach.",
     image: "https://portfolio-worker.hridank.workers.dev/public/navaid1.jpg",
     technologies: ["AI/ML", "Robotics", "Node.js", "Indoor Navigation", "Accessibility Tech"],
-    status: "Advanced Progress (Team Lead)",
+    status: "Advanced Progress(SigmaXI Recognised)",
     color: "bg-gradient-to-r from-teal-400 to-cyan-500",
     borderColor: "border-teal-400",
     bannerType: "novel-tech",
@@ -79,14 +79,14 @@ const projects = [
       "A novel underwater ROV for environmental sensing in India, using AI to detect metals, rust, and microplastics. Pioneering subaquatic exploration technology.",
     image: "https://portfolio-worker.hridank.workers.dev/public/MR3.JPG",
     technologies: ["Robotics", "Underwater Systems", "AI/ML", "Environmental Tech", "Novel Design"],
-    status: "Advanced Progress (Autonomous Dev)",
+    status: "Advanced Progress (SigmaXI, IEOM, ST-Yau Recognised)",
     color: "bg-gradient-to-r from-violet-400 to-indigo-500",
     borderColor: "border-violet-400",
     bannerType: "novel-tech",
   },
   {
     id: "hydrotherapy-rehabilitation",
-    title: "Hydrotherapy Rehabilitation Project",
+    title: "Hydrotherapy Rehabilitation Project- Provided to YPV-Ashramgit ",
     description:
       "A smart, sustainable water treadmill for physiotherapy, integrating AI gait analysis and eco-friendly design to make aquatic therapy more accessible.",
     image: "https://portfolio-worker.hridank.workers.dev/public/Hydro.PNG",

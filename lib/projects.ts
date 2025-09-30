@@ -36,7 +36,6 @@ export const projects: Project[] = [
       "https://portfolio-worker.hridank.workers.dev/public/BirdROV3.JPG", 
       "https://portfolio-worker.hridank.workers.dev/public/Classify.jpg",
       "https://portfolio-worker.hridank.workers.dev/public/BirdRov4.JPG",
-      "https://portfolio-worker.hridank.workers.dev/public/Bir9.mpv",
       "https://portfolio-worker.hridank.workers.dev/public/Birdrov6.mp4",
       "https://portfolio-worker.hridank.workers.dev/public/Bir1.mp4",
       "https://portfolio-worker.hridank.workers.dev/public/bir2.mp4"
@@ -46,7 +45,7 @@ export const projects: Project[] = [
     ],
     technologies: ["AI/ML", "Computer Vision", "Hovercraft Technology", "Environmental Monitoring", "Python"],
     award: "IRIS Grand Award 2024, Regeneron ISEF 2025 Finalist",
-    status: "Implementation Phase",
+    status: "7 Models Built and Tested | Implementation Phase",
     icon: "Zap",
     color: "bg-gradient-to-r from-amber-400 to-amber-600",
     borderColor: "border-amber-400",
@@ -63,7 +62,7 @@ export const projects: Project[] = [
       "AI-driven real-time bird detection and species identification",
       "Non-invasive, low-noise hovercraft design for minimal environmental disturbance",
       "High-resolution camera array for detailed avian observation",
-      "Autonomous navigation and data collection capabilities",
+      "Autonomous Image-capture and data collection capabilities",
       "Data analytics dashboard for population trends and behavioral insights",
     ],
     challenges: [
@@ -74,6 +73,7 @@ export const projects: Project[] = [
     ],
     impact: [
       "Awarded IRIS Grand Award, leading to Regeneron ISEF 2025 representation for Team India",
+      "Being utilised by MR Karthik NJ, a PHD Scholar at Kuvempu University for studying the populations of River terns- Paper Pending",
       "Provides a cost-effective and scalable solution for biodiversity monitoring",
       "Minimizes human footprint in sensitive ecological zones",
       "Generates valuable data for ornithological research and conservation strategies",
@@ -93,7 +93,7 @@ export const projects: Project[] = [
     
   ],
   technologies: ["UAV Swarms", "Simulation", "Multi-Agent Systems", "Boid Algorithms", "AI/ML"],
-  status: "Under Publication",
+  status: "Under Publication- IJCSE",
   icon: "GraduationCap",
   color: "bg-gradient-to-r from-gray-500 to-slate-700",
   borderColor: "border-slate-400",
@@ -133,7 +133,7 @@ export const projects: Project[] = [
       "A novel AI-powered Indoor Positioning System (IPS) for wheelchairs, enabling autonomous mobility in hospitals using an innovative sensor fusion approach never implemented before in this context.",
     images: ["https://portfolio-worker.hridank.workers.dev/public/navaid1.jpg", "https://portfolio-worker.hridank.workers.dev/public/Navaid.JPG", "https://portfolio-worker.hridank.workers.dev/public/IMG_3573.jpg"],
     technologies: ["AI/ML", "Robotics", "Node.js", "Indoor Navigation", "Accessibility Tech"],
-    status: "Advanced Progress (Team Lead)",
+    status: "Advanced Stages: SigmaXI Recognised",
     icon: "Compass",
     color: "bg-gradient-to-r from-green-500 to-emerald-500",
     borderColor: "border-green-400",
@@ -218,7 +218,7 @@ impact: [
   description: "A next-gen autonomous ROV for India, integrating AI, spectroscopy, and filtration to detect microplastics, corrosion, and heavy metal ions in aquatic environments.",
   images: ["https://portfolio-worker.hridank.workers.dev/public/MR3.JPG", "https://portfolio-worker.hridank.workers.dev/public/AquaScan.mp4" ],
   technologies: ["Robotics", "Underwater Systems", "AI/ML", "Environmental Tech", "Spectroscopy", "Novel Design"],
-  status: "Advanced Progress (Autonomous Dev)",
+  status: "Advanced Progress(IEOM, SigmaXI, ST-Yau Recognised)",
   icon: "FlaskConical",
   color: "bg-gradient-to-r from-purple-500 to-indigo-500",
   borderColor: "border-purple-400",
@@ -228,15 +228,13 @@ impact: [
   team: "Team Lead (3 members)",
   recognition: "In Development",
   bannerType: "novel-tech",
-  longDescription: "Water pollution from heavy metals, corrosion, and microplastics poses serious risks to aquatic ecosystems and human health. AquaScan is an innovative underwater robotic platform mounted on an RC submarine that combines multi-modal sensing, AI-based analysis, and autonomous navigation to detect and address these threats. It uses colorimetric sensing with CNN-based analysis for heavy metal ion detection, and a custom microplastic filtration and YOLOv8 classification pipeline for differentiating plastics from organic debris. AquaScan is also India’s first autopositioning ROV, capable of maintaining its position in strong currents and operating modular multi-angle manipulator arms for precise underwater sampling.",
+  longDescription: "Water pollution from heavy metals, corrosion, and microplastics poses serious risks to aquatic ecosystems and human health. AquaScan is an innovative underwater robotic platform mounted on an RC submarine that combines multi-modal sensing, AI-based analysis, and autonomous navigation to detect and address these threats. It uses colorimetric sensing with CNN-based analysis for heavy metal ion detection, and a custom microplastic filtration and YOLOv8 classification pipeline for differentiating plastics from organic debris. AquaScan is India’s first purpose-built ROV(for chemical analysis), capable of maintaining its position in strong currents and operating modular multi-angle manipulator arms for precise underwater sampling.",
   features: [
-    "India’s first autopositioning ROV with advanced stabilization",
-    "Custom AquaScan™ multi-angle manipulator arms with 360° movement and precision sampling",
     "Colorimetric sensing with AI (CNN) for heavy metal ion detection",
     "Microplastic filtration module with YOLOv8 classification of plastics vs organic debris",
     "Multi-spectrum rust and corrosion detection",
     "Modular sensor suite with 4K cameras, water quality analyzers, and interchangeable tools",
-    "Pressure-resistant aluminum hull (300m depth, upgradable to 500m)",
+    "Pressure-resistant acrylic hull (100+m depth, upgradable to 300m)",
     "Open-source hardware/software design for community-driven expansion"
   ],
   challenges: [
@@ -261,7 +259,7 @@ impact: [
   id: "hydrotherapy-rehabilitation",
   title: "Hydrotherapy Rehabilitation Project",
   description:
-    "A waterproof underwater treadmill for physiotherapy, designed to support rehabilitation with AI gait analysis and adjustable water levels.",
+    "A waterproof underwater treadmill for physiotherapy, designed to support rehabilitation with AI gait analysis and adjustable water levels. Provided to YPV Ashram, for rehabiltative efforts",
   images: ["https://portfolio-worker.hridank.workers.dev/public/Hydro.PNG"],
   technologies: ["Medical Devices", "Rehabilitation", "Mechanical Engineering", "Hydrotherapy", "AI/ML"],
   status: "In Development",
@@ -289,6 +287,7 @@ impact: [
     "Balancing affordability with mechanical durability"
   ],
   impact: [
+  "Serves as a Hydrotherapeutic solution aligning with YPV's 'No-touch rehabilitation' ",
     "Provides accessible aquatic rehabilitation for patients with mobility challenges",
     "Supports recovery for paralysis, arthritis, and injury rehabilitation",
     "Reduces stress on joints while promoting safe mobility training",
@@ -436,7 +435,7 @@ impact: [
   description:
     "An advanced drone platform developed during my Siemens PAMC internship, combining embedded systems and AI for real-time bird detection and environmental monitoring. This project laid the foundation for my IRIS Grand Award-winning BirdRover.",
   images: [
-    "/https://portfolio-worker.hridank.workers.dev/public/Siemens.jpg"
+    "https://portfolio-worker.hridank.workers.dev/public/Siemens.jpg"
   ],
   technologies: [
     "AI/ML",

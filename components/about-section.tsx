@@ -23,9 +23,7 @@ export function AboutSection() {
           <div>
             <h3 className="text-xl font-semibold mb-4 text-white">My Journey</h3>
             <p className="text-slate-300 mb-3 text-sm">
-              As a 17-year-old high school student from Bangalore, I am driven by a passion for combining technology
-              with real-world impact. My journey includes developing AI-powered drone systems at Siemens and founding
-              Potentia, an innovative app for aspiring athletes.
+               As a 17-year-old from Bangalore passionate about using AI and engineering to solve real problems. I care deeply about the environment and believe technology should help us build a safer, more sustainable world. My love for the outdoors drives my work in biodiversity, environmental monitoring, and tech solutions that make a real difference—including projects in medicine—many of which have earned recognition at both the national and international level.
             </p>
             <p className="text-slate-300 mb-3 text-sm">
               I've had the privilege of working on diverse projects, from advanced bird detection systems to critical

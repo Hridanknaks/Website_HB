@@ -41,6 +41,15 @@ export function LogoSection() {
       borderColor: "border-lime-500",
     },
     {
+      name: "Yoga Prana Vidya Foundation",
+      logo: "https://portfolio-worker.hridank.workers.dev/public/ypv-logo.png",
+      role: "Solutions Developer",
+      period: "2024 - Present",
+      description: "Developing Hydrotherapy solutions for wellness and therapeutic applications",
+      color: "bg-gradient-to-r from-orange-400 to-amber-500",
+      borderColor: "border-orange-400",
+    },
+    {
       name: "Trinity College London",
       logo: "https://portfolio-worker.hridank.workers.dev/public/trinity-logo.jpeg",
       role: "Certified Musician",
